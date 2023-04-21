@@ -1,0 +1,12 @@
+body {
+  background-image: url(./money_plant.avif);
+  background-size: cover;
+}
+
+.bg-image1 {
+  background-image: url(./sikke.avif);
+}
+
+.highlighted-row {
+  background-color: yellow;
+}
